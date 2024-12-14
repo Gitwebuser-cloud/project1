@@ -1,0 +1,126 @@
+body{
+
+    text-align: center;
+
+    background-color:aquamarine;
+
+    opacity: 0.75
+}
+
+header{
+
+    background-color: rgb(49, 189, 189);
+
+
+    border:2px solid blue;
+
+
+    
+
+    border-radius: 15px;
+
+    
+
+
+    opacity: 0.9;
+}
+
+main{
+
+    background-color: rgb(49, 189, 189);
+
+
+    border-radius: 15px;
+
+
+
+
+    
+
+
+    opacity: 0.9;
+
+    
+}
+
+
+footer{
+
+    background-color: rgb(44, 160, 160);
+
+    border-radius: 15px;
+
+    font-size: 20px;
+
+
+    opacity: 0.9;
+
+
+
+
+}
+
+main h1{
+
+    text-transform:uppercase;
+
+    font-size: 20px;
+}
+
+main h2{
+
+    font-size: 20px;
+
+    color:white;
+
+
+
+}
+
+.warningtext{
+
+    font-size: 20px;
+
+    border:2px solid blue;
+
+    
+
+
+}
+
+main img{
+
+    width: 100px;
+
+    border:2px solid blue;
+
+    border-radius:5%;
+
+    
+
+    height: 100px;
+
+
+}
+
+
+main table{
+
+    font-size: 20px;
+
+
+    border:2px solid blue;
+}
+
+
+nav{
+    padding: 10px;
+}
+
+nav a{
+    margin: 20px;
+    text-decoration: none;
+    border: 2px solid blue;
+    border-radius: 5px;
+    padding: 5px;
+}
